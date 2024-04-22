@@ -1,0 +1,58 @@
+body {
+
+
+  background-color: rgb(245, 198, 44);
+
+}
+
+button {
+  background-color: black;
+  
+  position: relative;
+
+  border-radius: 1000px;
+
+  color: white;
+
+  top: 285px;
+
+  right: -475px;
+
+ width: 300px;
+
+ height: 100px;
+}
+
+.ppp {
+  background-color: black;
+
+  position: relative;
+
+  color: white;
+
+  top: 400px;
+
+  left: 175px;
+
+}
+
+.ttt {
+   background-color: black;
+
+   color: white;
+
+   top: 510px;
+
+   left: -121px;
+}
+
+.bbb {
+  background-color: rgb(0, 255, 191);
+
+  color: white;
+
+  top: 620px;
+
+  left: -417px;
+
+}
