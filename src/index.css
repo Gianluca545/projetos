@@ -1,58 +1,149 @@
 body {
-
-
-  background-color: rgb(245, 198, 44);
-
+  background-color: rgb(246, 249, 249);
 }
 
-button {
-  background-color: black;
-  
-  position: relative;
+img {
+  background-color: rgba(73, 108, 163, 0.51);
 
-  border-radius: 1000px;
+  position: absolute;
 
-  color: white;
+  left: 300px;
 
-  top: 285px;
-
-  right: -475px;
-
- width: 300px;
-
- height: 100px;
+  top: 250px;
 }
 
-.ppp {
-  background-color: black;
+.aaa {
 
-  position: relative;
+position: relative;
 
-  color: white;
+right: -250px;
 
-  top: 400px;
-
-  left: 175px;
-
-}
-
-.ttt {
-   background-color: black;
-
-   color: white;
-
-   top: 510px;
-
-   left: -121px;
+top: 170px;
 }
 
 .bbb {
-  background-color: rgb(0, 255, 191);
+  
+  position: relative;
 
-  color: white;
+  top: 57px;
 
-  top: 620px;
+  left: 200px;
+}
 
-  left: -417px;
+.ccc{
 
+  position:relative;
+
+  top: 170px;
+
+  left: 98px;
+}
+
+.ddd {
+
+  position: relative;
+
+  top: 250px;
+
+  left: 200px;
+}
+
+.eee {
+
+  position: relative;
+
+  top: 143px;
+
+  left: 290px;
+}
+
+.fff {
+ background-color: rgb(255, 208, 0);
+
+  position: relative;
+
+  top: -275px;
+
+  right: 130px;
+}
+
+.ggg {
+  background-color: rgb(255, 208, 0);
+
+
+  position: relative;
+
+  top: -275px;
+
+  right: 60px;;
+}
+
+.hhh {
+  background-color: rgb(255, 208, 0);
+
+
+  position: relative;
+
+  top: -275px;
+}
+
+.iii {
+  background-color: rgb(255, 208, 0);
+
+
+  position: relative;
+
+  top: -275px;
+
+  left: 70px;
+}
+
+.jjj {
+  background-color:  rgba(73, 108, 163, 0.51);
+
+
+
+  color: aliceblue;
+
+  position: relative;
+
+  top: 360px;
+
+  left: 300px;
+}
+
+.kkk {
+  background-color:  rgba(73, 108, 163, 0.51);
+
+
+
+  color:aliceblue;
+
+  position: relative;
+
+  top: 336px;
+
+  left: 243px;
+}
+
+.lll {
+  background-color: rgb(255, 208, 0);
+
+  padding-right: 2000px;
+
+ 
+
+  position: relative;
+
+  top: 0px;
+
+ left: -5px;
+}
+
+.nnn {
+
+
+  top: 555px;
+
+  left: 890px;
 }
